@@ -4,7 +4,7 @@
 
 /* HEADER */
 header{
-    background-image: url(../IMG/Vector-Smart-Object.jpg);
+    background-image: url(../img/Vector-Smart-Object.jpg);
     background-size: cover;
     height: 700px;
     position: relative;
@@ -35,7 +35,7 @@ header #headerlist{
 }
 #headerlist .forall_header .list ul{display: inline;}
 #headerlist .forall_header .list li{display: inline;}
-#headerlist .txtlist a:link{
+#headerlist .txtlist a{
     color:#000000;
     padding: 29px 20px;
 }
@@ -74,7 +74,7 @@ header #headerinfo .headertxt{
     font-size: 31px;
     margin-bottom:30px;
 }
-#headerinfo .headertxt a:link{
+#headerinfo .headertxt a{
     padding: 15px 30px;
     background-color: #ffffff;
     border-radius: 30px;
@@ -269,7 +269,7 @@ main #sapa .sapaartcl article p{
     margin-bottom: 50px;
     color: #828791;
 }
-#pricing .allplan .plan .btn a:link{
+#pricing .allplan .plan .btn a{
     background-color: #eaeafd;
     padding: 15px 32px;
     border-radius: 40px;
@@ -286,7 +286,7 @@ main #sapa .sapaartcl article p{
     box-shadow: 0 10px 25px #ececec;
     border-radius: 20px;
 }
-#pricing .allplan #pro .btnpro a:link{
+#pricing .allplan #pro .btnpro a{
     background-color:#4033ff;
     padding: 15px 32px;
     border-radius: 40px;
@@ -402,9 +402,7 @@ main #sapa .sapaartcl article p{
 }
 #artcl .allartcl article{
     width:365px;
-    box-shadow: 0 8px 10px #c5c5c5;
-    max-height: 604px;
-    min-height: 604px;
+    box-shadow: 0 8px 10px #e8e8e8;
 }
 #artcl .allartcl .artc1{transition: all 0.3s;}
 #artcl .allartcl .artc2{transition: all 0.3s;}
@@ -465,25 +463,25 @@ main #sapa .sapaartcl article p{
 
 
 #artcl .allartcl article .backg1{
-    background-image: url(../IMG/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplas4h-1024x777.jpg);
+    background-image: url(../img/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplas4h-1024x777.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height:307px;
 }
 #artcl .allartcl article .backg2{
-    background-image: url(../IMG/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplas6h-1024x777.jpg);
+    background-image: url(../img/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplas6h-1024x777.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height:307px;
 }
 #artcl .allartcl article .backg3{
-    background-image: url(../IMG/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplash8-1024x777.jpg);
+    background-image: url(../img/artcl/101_0001_alexandru-acea-bbokzTQjB9o-unsplash8-1024x777.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height:307px;
 }
 #artcl .allartcl article .infoartcl{padding: 20px 20px;}
-#artcl .allartcl article .infoartcl a:link{display: block;}
+#artcl .allartcl article .infoartcl a{display: block;}
 #artcl .allartcl article .infoartcl a.title{
     color: #000000;
     font-size: 30px;
@@ -512,7 +510,7 @@ main #sapa .sapaartcl article p{
     top: 2px;
     margin-left: 230px;
 }
-#artcl .allartcl article .moreartcl a:link{
+#artcl .allartcl article .moreartcl a{
     padding: 20px 18px;
     color: #000000;
     font-weight: bold;
@@ -565,7 +563,7 @@ footer #top{
     margin-bottom:15px;
 }
 #top .ftr .listftr li{margin-top: 10px;}
-#top .ftr .listftr li a:link{
+#top .ftr .listftr li a{
     font-size:15px;
     color: #828791;
     margin: 5px 0;
