@@ -578,3 +578,7 @@ footer #top{
     padding: 30px 0;
     font-size: 15px;
 }
+
+.respo{
+    display:none;
+}
